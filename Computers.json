@@ -7,6 +7,7 @@
         "headquarters": "Santa Clara, California, United States",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/CV58wnWAea3ma73jXLjX5F.jpg",
         "popular_models": ["Intel Core i7", "Intel Core i5", "Intel Core i3"],
+        "rgb": false,
         "significant_model": {
             "name": "Intel Core i9",
             "release_year": 2017,
@@ -22,6 +23,7 @@
         "headquarters": "Santa Clara, California, United States",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/3046910_processoren-amd-ryzen-threadripper-3990x-64c-43ghz-skt-strx4-288mb-280w-tray-100-000000163.jpg",
         "popular_models": ["AMD Ryzen 5", "AMD Ryzen 7", "AMD Ryzen 9"],
+        "rgb": false,
         "significant_model": {
             "name": "AMD Ryzen Threadripper",
             "release_year": 2017,
@@ -37,6 +39,7 @@
         "headquarters": "Santa Clara, California, United States",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/msi-geforce-rtx-3080-ti-suprim-x-12gb.jpg",
         "popular_models": ["NVIDIA GeForce RTX 3080", "NVIDIA GeForce RTX 3090", "NVIDIA GeForce RTX 3070"],
+        "rgb": true,
         "significant_model": {
             "name": "NVIDIA GeForce RTX 3080 Ti",
             "release_year": 2021,
@@ -52,6 +55,7 @@
         "headquarters": "Beitou District, Taipei, Taiwan",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/asus%20rtx%203080.jpg",
         "popular_models": ["ASUS ROG Strix", "ASUS TUF Gaming", "ASUS Prime"],
+        "rgb": true,
         "significant_model": {
             "name": "ASUS ROG Strix GeForce RTX 3080",
             "release_year": 2020,
@@ -68,6 +72,7 @@
         "headquarters": "New Taipei City, Taiwan",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/msi%20gaming%20x%20trio%20rtx%203080.jpg",
         "popular_models": ["MSI MPG", "MSI MAG", "MSI MEG"],
+        "rgb": true,
         "significant_model": {
             "name": "MSI GeForce RTX 3080 GAMING X TRIO",
             "release_year": 2020,
@@ -83,6 +88,7 @@
         "headquarters": "New Taipei City, Taiwan",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/gigabyte%20rtx%203080.jpg",
         "popular_models": ["Gigabyte AORUS", "Gigabyte G1", "Gigabyte Ultra Durable"],
+        "rgb": true,
         "significant_model": {
             "name": "Gigabyte GeForce RTX 3080 AORUS MASTER",
             "release_year": 2020,
@@ -98,6 +104,7 @@
         "headquarters": "Fremont, California, United States",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/rgb%20ram%20corsair%20pro.jpg",
         "popular_models": ["Corsair Vengeance", "Corsair Dominator", "Corsair Carbide"],
+        "rgb": true,
         "significant_model": {
             "name": "Corsair Vengeance RGB Pro",
             "release_year": 2018,
@@ -113,6 +120,7 @@
         "headquarters": "Fountain Valley, California, United States",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/kingston-hyperx-predator-rgb-black-16gb-ddr4-3200-cl16.jpg",
         "popular_models": ["Kingston HyperX", "Kingston A2000", "Kingston KC600"],
+        "rgb": true,
         "significant_model": {
             "name": "Kingston HyperX Predator",
             "release_year": 2019,
@@ -128,6 +136,7 @@
         "headquarters": "Suwon, South Korea",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/samsung-970-evo-plus-2tb.jpg",
         "popular_models": ["Samsung 970 EVO", "Samsung 860 EVO", "Samsung 980 PRO"],
+        "rgb": false,
         "significant_model": {
             "name": "Samsung 970 EVO Plus",
             "release_year": 2019,
@@ -143,6 +152,7 @@
         "headquarters": "San Jose, California, United States",
         "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/Western%20Digital-WDS100T3X0C-30177181-01.jpg",
         "popular_models": ["WD Blue", "WD Black", "WD Red"],
+        "rgb": false,
         "significant_model": {
             "name": "WD Black SN750",
             "release_year": 2019,
