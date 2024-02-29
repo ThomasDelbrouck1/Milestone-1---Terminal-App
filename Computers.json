@@ -5,7 +5,7 @@
         "description": "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California.",
         "founded": "1968-07-18",
         "headquarters": "Santa Clara, California, United States",
-        "image_url": "https://example.com/intel.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/CV58wnWAea3ma73jXLjX5F.jpg",
         "popular_models": ["Intel Core i7", "Intel Core i5", "Intel Core i3"],
         "significant_model": {
             "name": "Intel Core i9",
@@ -20,7 +20,7 @@
         "description": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company based in Santa Clara, California.",
         "founded": "1969-05-01",
         "headquarters": "Santa Clara, California, United States",
-        "image_url": "https://example.com/amd.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/3046910_processoren-amd-ryzen-threadripper-3990x-64c-43ghz-skt-strx4-288mb-280w-tray-100-000000163.jpg",
         "popular_models": ["AMD Ryzen 5", "AMD Ryzen 7", "AMD Ryzen 9"],
         "significant_model": {
             "name": "AMD Ryzen Threadripper",
@@ -35,7 +35,7 @@
         "description": "NVIDIA Corporation is an American multinational technology company incorporated in Delaware and based in Santa Clara, California.",
         "founded": "1993-04-05",
         "headquarters": "Santa Clara, California, United States",
-        "image_url": "https://example.com/nvidia.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/msi-geforce-rtx-3080-ti-suprim-x-12gb.jpg",
         "popular_models": ["NVIDIA GeForce RTX 3080", "NVIDIA GeForce RTX 3090", "NVIDIA GeForce RTX 3070"],
         "significant_model": {
             "name": "NVIDIA GeForce RTX 3080 Ti",
@@ -50,7 +50,7 @@
         "description": "ASUSTeK Computer Inc. is a Taiwanese multinational computer and phone hardware and electronics company headquartered in Beitou District, Taipei, Taiwan.",
         "founded": "1989-04-02",
         "headquarters": "Beitou District, Taipei, Taiwan",
-        "image_url": "https://example.com/asus.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/asus%20rtx%203080.jpg",
         "popular_models": ["ASUS ROG Strix", "ASUS TUF Gaming", "ASUS Prime"],
         "significant_model": {
             "name": "ASUS ROG Strix GeForce RTX 3080",
@@ -66,7 +66,7 @@
         "description": "Micro-Star International Co., Ltd (MSI) is a Taiwanese multinational information technology corporation headquartered in New Taipei City, Taiwan.",
         "founded": "1986-08-04",
         "headquarters": "New Taipei City, Taiwan",
-        "image_url": "https://example.com/msi.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/msi%20gaming%20x%20trio%20rtx%203080.jpg",
         "popular_models": ["MSI MPG", "MSI MAG", "MSI MEG"],
         "significant_model": {
             "name": "MSI GeForce RTX 3080 GAMING X TRIO",
@@ -81,7 +81,7 @@
         "description": "Gigabyte Technology Co., Ltd. is a Taiwanese manufacturer and distributor of computer hardware.",
         "founded": "1986-04-30",
         "headquarters": "New Taipei City, Taiwan",
-        "image_url": "https://example.com/gigabyte.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/gigabyte%20rtx%203080.jpg",
         "popular_models": ["Gigabyte AORUS", "Gigabyte G1", "Gigabyte Ultra Durable"],
         "significant_model": {
             "name": "Gigabyte GeForce RTX 3080 AORUS MASTER",
@@ -96,7 +96,7 @@
         "description": "Corsair Components, Inc. is an American computer peripherals and hardware company headquartered in Fremont, California.",
         "founded": "1994-01-01",
         "headquarters": "Fremont, California, United States",
-        "image_url": "https://example.com/corsair.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/rgb%20ram%20corsair%20pro.jpg",
         "popular_models": ["Corsair Vengeance", "Corsair Dominator", "Corsair Carbide"],
         "significant_model": {
             "name": "Corsair Vengeance RGB Pro",
@@ -111,7 +111,7 @@
         "description": "Kingston Technology Corporation is an American multinational computer technology corporation that develops, manufactures, sells and supports flash memory products and other computer-related memory products.",
         "founded": "1987-10-17",
         "headquarters": "Fountain Valley, California, United States",
-        "image_url": "https://example.com/kingston.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/kingston-hyperx-predator-rgb-black-16gb-ddr4-3200-cl16.jpg",
         "popular_models": ["Kingston HyperX", "Kingston A2000", "Kingston KC600"],
         "significant_model": {
             "name": "Kingston HyperX Predator",
@@ -126,7 +126,7 @@
         "description": "Samsung Electronics Co., Ltd. is a South Korean multinational electronics corporation headquartered in the Yeongtong District of Suwon.",
         "founded": "1969-01-13",
         "headquarters": "Suwon, South Korea",
-        "image_url": "https://example.com/samsung.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/samsung-970-evo-plus-2tb.jpg",
         "popular_models": ["Samsung 970 EVO", "Samsung 860 EVO", "Samsung 980 PRO"],
         "significant_model": {
             "name": "Samsung 970 EVO Plus",
@@ -141,7 +141,7 @@
         "description": "Western Digital Corporation is an American computer hard disk drive manufacturer and data storage company headquartered in San Jose, California.",
         "founded": "1970-04-23",
         "headquarters": "San Jose, California, United States",
-        "image_url": "https://example.com/western_digital.jpg",
+        "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/Western%20Digital-WDS100T3X0C-30177181-01.jpg",
         "popular_models": ["WD Blue", "WD Black", "WD Red"],
         "significant_model": {
             "name": "WD Black SN750",
