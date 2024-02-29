@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "name": "Intel",
+        "description": "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California.",
+        "founded": "1968-07-18",
+        "headquarters": "Santa Clara, California, United States",
+        "image_url": "https://example.com/intel.jpg",
+        "popular_models": ["Intel Core i7", "Intel Core i5", "Intel Core i3"],
+        "significant_model": {
+            "name": "Intel Core i9",
+            "release_year": 2017,
+            "type": "Processor",
+            "performance": "High"
+        }
+    },
+    {
+        "id": 2,
+        "name": "AMD",
+        "description": "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company based in Santa Clara, California.",
+        "founded": "1969-05-01",
+        "headquarters": "Santa Clara, California, United States",
+        "image_url": "https://example.com/amd.jpg",
+        "popular_models": ["AMD Ryzen 5", "AMD Ryzen 7", "AMD Ryzen 9"],
+        "significant_model": {
+            "name": "AMD Ryzen Threadripper",
+            "release_year": 2017,
+            "type": "Processor",
+            "performance": "High"
+        }
+    },
+    {
+        "id": 3,
+        "name": "NVIDIA",
+        "description": "NVIDIA Corporation is an American multinational technology company incorporated in Delaware and based in Santa Clara, California.",
+        "founded": "1993-04-05",
+        "headquarters": "Santa Clara, California, United States",
+        "image_url": "https://example.com/nvidia.jpg",
+        "popular_models": ["NVIDIA GeForce RTX 3080", "NVIDIA GeForce RTX 3090", "NVIDIA GeForce RTX 3070"],
+        "significant_model": {
+            "name": "NVIDIA GeForce RTX 3080 Ti",
+            "release_year": 2021,
+            "type": "Graphics Card",
+            "performance": "High"
+        }
+    },
+    {
+        "id": 4,
+        "name": "ASUS",
+        "description": "ASUSTeK Computer Inc. is a Taiwanese multinational computer and phone hardware and electronics company headquartered in Beitou District, Taipei, Taiwan.",
+        "founded": "1989-04-02",
+        "headquarters": "Beitou District, Taipei, Taiwan",
+        "image_url": "https://example.com/asus.jpg",
+        "popular_models": ["ASUS ROG Strix", "ASUS TUF Gaming", "ASUS Prime"],
+        "significant_model": {
+            "name": "ASUS ROG Strix GeForce RTX 3080",
+            "release_year": 2020,
+            "type": "Graphics Card",
+            "performance": "High"
+        }
+    },
+   
+    {
+        "id": 5,
+        "name": "MSI",
+        "description": "Micro-Star International Co., Ltd (MSI) is a Taiwanese multinational information technology corporation headquartered in New Taipei City, Taiwan.",
+        "founded": "1986-08-04",
+        "headquarters": "New Taipei City, Taiwan",
+        "image_url": "https://example.com/msi.jpg",
+        "popular_models": ["MSI MPG", "MSI MAG", "MSI MEG"],
+        "significant_model": {
+            "name": "MSI GeForce RTX 3080 GAMING X TRIO",
+            "release_year": 2020,
+            "type": "Graphics Card",
+            "performance": "High"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Gigabyte",
+        "description": "Gigabyte Technology Co., Ltd. is a Taiwanese manufacturer and distributor of computer hardware.",
+        "founded": "1986-04-30",
+        "headquarters": "New Taipei City, Taiwan",
+        "image_url": "https://example.com/gigabyte.jpg",
+        "popular_models": ["Gigabyte AORUS", "Gigabyte G1", "Gigabyte Ultra Durable"],
+        "significant_model": {
+            "name": "Gigabyte GeForce RTX 3080 AORUS MASTER",
+            "release_year": 2020,
+            "type": "Graphics Card",
+            "performance": "High"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Corsair",
+        "description": "Corsair Components, Inc. is an American computer peripherals and hardware company headquartered in Fremont, California.",
+        "founded": "1994-01-01",
+        "headquarters": "Fremont, California, United States",
+        "image_url": "https://example.com/corsair.jpg",
+        "popular_models": ["Corsair Vengeance", "Corsair Dominator", "Corsair Carbide"],
+        "significant_model": {
+            "name": "Corsair Vengeance RGB Pro",
+            "release_year": 2018,
+            "type": "RAM",
+            "performance": "High"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Kingston",
+        "description": "Kingston Technology Corporation is an American multinational computer technology corporation that develops, manufactures, sells and supports flash memory products and other computer-related memory products.",
+        "founded": "1987-10-17",
+        "headquarters": "Fountain Valley, California, United States",
+        "image_url": "https://example.com/kingston.jpg",
+        "popular_models": ["Kingston HyperX", "Kingston A2000", "Kingston KC600"],
+        "significant_model": {
+            "name": "Kingston HyperX Predator",
+            "release_year": 2019,
+            "type": "RAM",
+            "performance": "High"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Samsung",
+        "description": "Samsung Electronics Co., Ltd. is a South Korean multinational electronics corporation headquartered in the Yeongtong District of Suwon.",
+        "founded": "1969-01-13",
+        "headquarters": "Suwon, South Korea",
+        "image_url": "https://example.com/samsung.jpg",
+        "popular_models": ["Samsung 970 EVO", "Samsung 860 EVO", "Samsung 980 PRO"],
+        "significant_model": {
+            "name": "Samsung 970 EVO Plus",
+            "release_year": 2019,
+            "type": "SSD",
+            "performance": "High"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Western Digital",
+        "description": "Western Digital Corporation is an American computer hard disk drive manufacturer and data storage company headquartered in San Jose, California.",
+        "founded": "1970-04-23",
+        "headquarters": "San Jose, California, United States",
+        "image_url": "https://example.com/western_digital.jpg",
+        "popular_models": ["WD Blue", "WD Black", "WD Red"],
+        "significant_model": {
+            "name": "WD Black SN750",
+            "release_year": 2019,
+            "type": "SSD",
+            "performance": "High"
+        }
+    }
+]
+
