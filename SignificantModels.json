@@ -1,33 +1,38 @@
 [
   {
     "name": "Intel Core i9",
-    "release_year": 2017,
-    "type": "Processor",
-    "performance": "High"
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/CV58wnWAea3ma73jXLjX5F.jpg",
+      "release_year": 2017,
+      "type": "Processor",
+      "performance": "High"
   },
   {
     "name": "AMD Ryzen Threadripper",
-    "release_year": 2017,
-    "type": "Processor",
-    "performance": "High"
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/3046910_processoren-amd-ryzen-threadripper-3990x-64c-43ghz-skt-strx4-288mb-280w-tray-100-000000163.jpg",
+      "release_year": 2017,
+      "type": "Processor",
+      "performance": "High"
   },
   {
     "name": "NVIDIA GeForce RTX 3080 Ti",
-    "release_year": 2021,
-    "type": "Graphics Card",
-    "performance": "High"
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/msi-geforce-rtx-3080-ti-suprim-x-12gb.jpg",
+      "release_year": 2021,
+      "type": "Graphics Card",
+      "performance": "High"
   },
   {
     "name": "ASUS ROG Strix GeForce RTX 3080",
-    "release_year": 2020,
-    "type": "Graphics Card",
-    "performance": "High"
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/asus%20rtx%203080.jpg",
+      "release_year": 2020,
+      "type": "Graphics Card",
+      "performance": "High"
   },
   {
     "name": "MSI GeForce RTX 3080 GAMING X TRIO",
-    "release_year": 2020,
-    "type": "Graphics Card",
-    "performance": "High"
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/msi%20gaming%20x%20trio%20rtx%203080.jpg",
+      "release_year": 2020,
+      "type": "Graphics Card",
+      "performance": "High"
   },
   {
     "name": "Gigabyte GeForce RTX 3080 AORUS MASTER",
@@ -36,27 +41,31 @@
     "performance": "High"
   },
   {
-    "name": "Corsair Vengeance RGB Pro",
-    "release_year": 2018,
-    "type": "RAM",
-    "performance": "High"
+  "name": "Corsair Vengeance RGB Pro",
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/rgb%20ram%20corsair%20pro.jpg",
+      "release_year": 2018,
+      "type": "RAM",
+      "performance": "High"
   },
   {
     "name": "Kingston HyperX Predator",
-    "release_year": 2019,
-    "type": "RAM",
-    "performance": "High"
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/kingston-hyperx-predator-rgb-black-16gb-ddr4-3200-cl16.jpg",
+      "release_year": 2019,
+      "type": "RAM",
+      "performance": "High"
   },
   {
-    "name": "Samsung 970 EVO Plus",
-    "release_year": 2019,
-    "type": "SSD",
-    "performance": "High"
+     "name": "Samsung 970 EVO Plus",
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/samsung-970-evo-plus-2tb.jpg",
+      "release_year": 2019,
+      "type": "SSD",
+      "performance": "High"
   },
   {
     "name": "WD Black SN750",
-    "release_year": 2019,
-    "type": "SSD",
-    "performance": "High"
+      "image_url": "https://raw.githubusercontent.com/ThomasDelbrouck1/Milestone-1---Terminal-App/main/webontwikkeling-images/Western%20Digital-WDS100T3X0C-30177181-01.jpg",
+      "release_year": 2019,
+      "type": "SSD",
+      "performance": "High"
   }
 ]
